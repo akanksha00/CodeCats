@@ -1,2 +1,1 @@
-# CodeCats
- 
+weekly coding practice
